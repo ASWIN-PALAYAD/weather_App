@@ -1,0 +1,39 @@
+body{
+background-image: url(./images/thunderstorm-3440450.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+
+.heading{
+    color: white;
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 45px;
+}
+.card_section{
+    border: 1px solid white;
+    margin-top: 5em;
+    padding: 2rem;
+    border-radius: 50px;
+    color: white;
+    
+}
+
+#search_box{
+    border: none;
+    outline: none;
+    padding: 0.5em;
+    border-radius: 18px;
+}
+
+.search-button{
+    height: 2.5rem;
+    width: 2.5rem;
+    border-radius: 50%;
+    border: none;
+}
+
+.city{
+    margin-top: 20px;
+}
